@@ -10,4 +10,4 @@ Réaliser en React :
 * ajouter des fonctions
 * utiliser les states
 * utiliser les évènements
-* utilier marked.js (markdown parser and compiler)
+* utiliser marked.js (markdown parser and compiler)
